@@ -1,0 +1,4 @@
+name: EnderEyeTargeter
+version: '1.0-SNAPSHOT'
+main: io.mewb.enderEyeTargeter.EnderEyeTargeter
+api-version: '1.21'
