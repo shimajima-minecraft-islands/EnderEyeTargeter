@@ -1,0 +1,18 @@
+stronghold_location:
+  # The name of the world where your stronghold is located.
+  # This MUST match the exact name of your world folder (e.g., 'world', 'world_nether', 'my_custom_world').
+  # If your custom 16k x 8k world is named 'my_16k_world', you would put: world: my_16k_world
+  world: world # <-- CHANGE THIS to your custom world's name
+
+  # The X coordinate of your stronghold.
+  # Replace '0.0' with the actual X coordinate.
+  x: 0.0       # <-- CHANGE THIS to your stronghold's X coordinate
+
+  # The Y coordinate of your stronghold. This can be any Y level within the stronghold.
+  # A common Y level for strongholds is around 64, but it can vary.
+  # Replace '64.0' with the actual Y coordinate.
+  y: 64.0      # <-- CHANGE THIS to your stronghold's Y coordinate
+
+  # The Z coordinate of your stronghold.
+  # Replace '0.0' with the actual Z coordinate.
+  z: 0.0       # <-- CHANGE THIS to your stronghold's Z coordinate
